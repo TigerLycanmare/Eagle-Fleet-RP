@@ -1,0 +1,253 @@
+# Earth
+
+## Overview
+
+Earth is the homeworld of Humanity and one of the founding members of the [[United Federation of Planets]].
+Located in the [[Sol System]], Earth serves as the political heart of the Federation and hosts many of its most important governmental, scientific, and Starfleet institutions.
+As the capital world of the Federation, Earth is one of the most influential planets in known space.
+
+---
+
+## Basic Information
+
+Planet Name: Earth
+System: [[Sol System]]
+Star: Sol
+Classification: Class M Planet
+Primary Species: Human
+Political Affiliation: [[United Federation of Planets]]
+Quadrant: [[Alpha Quadrant]]
+Capital Status: Federation Capital World
+Population: Billions
+Moon:
+- [[Luna]]
+
+---
+
+## Astronomical Data
+
+Orbital Position: Third Planet of Sol
+Natural Satellites:
+- [[Luna]]
+Neighboring Worlds:
+- [[Mars]]
+- [[Venus]]
+- [[Jupiter]]
+
+---
+
+## Government
+
+### United Earth Government
+
+Earth maintains a planetary government that operates within the framework of the Federation.
+
+### Federation Government
+
+Earth hosts many of the Federation's most important institutions.
+#### Major Institutions
+- [[Federation Council]]
+- [[Federation President]]
+- [[Starfleet Headquarters]]
+- [[Starfleet Academy]]
+
+---
+
+## Historical Significance
+
+Earth's history fundamentally shaped the development of modern interstellar civilization.
+
+### First Contact
+
+In 2063, Humanity made first contact with the Vulcans following the successful warp flight of [[Zefram Cochrane]].
+
+### United Earth Era
+
+A period of planetary unification that laid the foundations for Humanity's expansion into space.
+
+### Earth-Romulan War
+
+A major conflict that influenced the formation of interstellar alliances.
+
+### Founding of the Federation
+
+In 2161, Earth became one of the founding members of the [[United Federation of Planets]].
+
+---
+
+## Major Locations
+
+### Paris
+
+One of Earth's most significant cities.
+Notable Sites:
+- [[Federation Council]]
+- Office of the Federation President
+
+### San Francisco
+
+Major center of Starfleet operations.
+Notable Sites:
+- [[Starfleet Headquarters]]
+- [[Starfleet Academy]]
+
+### New Orleans
+
+Historic cultural center known for cuisine and music.
+
+### Alaska
+
+Home to numerous scientific and research facilities.
+
+---
+
+## Culture
+
+Earth is one of the most culturally diverse worlds in the Federation.
+
+### Core Values
+
+- Exploration
+- Scientific advancement
+- Cultural diversity
+- Cooperation
+- Individual freedom
+
+### Cultural Importance
+
+Human culture has significantly influenced Federation society, diplomacy, and exploration.
+
+---
+
+## Economy
+
+By the 24th century, Earth operates within the Federation's post-scarcity economy.
+Citizens generally pursue careers based on personal growth, public service, scientific achievement, and exploration rather than economic necessity.
+
+---
+
+## Science and Education
+
+Earth is a major center of learning and research.
+
+### Notable Institutions
+
+- [[Starfleet Academy]]
+- [[Daystrom Institute]]
+- Various universities and research centers
+
+### Major Fields
+
+- Warp Physics
+- Engineering
+- Medicine
+- Exobiology
+- Diplomacy
+- Archaeology
+
+---
+
+## Starfleet Presence
+
+Earth serves as the administrative center of Starfleet.
+
+### Starfleet Headquarters
+
+Located in San Francisco.
+Responsibilities include:
+- Strategic planning
+- Personnel management
+- Fleet operations
+- Mission oversight
+
+### Starfleet Academy
+
+The Federation's premier academy for officer training.
+
+---
+
+## Nearby Locations
+
+### Luna
+
+Earth's natural satellite and home to several major settlements.
+Notable Locations:
+- [[New Berlin]]
+- [[Tycho City]]
+- [[Lake Armstrong]]
+
+### Mars
+
+Important industrial and engineering center.
+Notable Location:
+- [[Utopia Planitia Fleet Yards]]
+
+---
+
+## Notable Individuals
+
+### [[Zefram Cochrane]]
+
+Inventor of Humanity's first successful warp drive.
+
+### [[Jonathan Archer]]
+
+Captain of NX-01 Enterprise and influential Federation founder.
+
+### [[Christopher Pike]]
+
+Decorated Starfleet captain.
+
+### [[James T. Kirk]]
+
+Legendary captain of USS Enterprise.
+
+### [[Jean-Luc Picard]]
+
+Starfleet officer and diplomat.
+
+### [[Benjamin Sisko]]
+
+Commander of Deep Space 9 and Federation war leader.
+
+---
+
+## RP Hooks
+
+- Starfleet Academy campaigns
+- Federation diplomatic conferences
+- Scientific symposiums
+- Historical research projects
+- Political intrigue on Earth
+- Starfleet personnel transfers
+- Criminal investigations
+- Sol System defense operations
+
+---
+
+## Related Notes
+
+### Federation
+
+- [[United Federation of Planets]]
+- [[Starfleet]]
+- [[Federation Council]]
+
+### Sol System
+
+- [[Sol System]]
+- [[Luna]]
+- [[Mars]]
+
+### Major Locations
+
+- [[Paris]]
+- [[San Francisco]]
+- [[Starfleet Headquarters]]
+- [[Starfleet Academy]]
+
+### Historical Figures
+
+- [[Zefram Cochrane]]
+- [[Jonathan Archer]]
+#earth #humanity #solsystem #federation #starfleet #foundingworld #alphaquadrant

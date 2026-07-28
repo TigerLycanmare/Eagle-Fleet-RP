@@ -1,0 +1,230 @@
+# Gamma Quadrant
+
+## Overview
+
+The Gamma Quadrant is one of the four major divisions of the Milky Way Galaxy. For much of Federation history it remained largely unexplored due to its vast distance from the Alpha Quadrant.
+The discovery of the [[Bajoran Wormhole]] provided direct access to the Gamma Quadrant, dramatically increasing exploration, trade, diplomacy, and eventually military conflict.
+The Gamma Quadrant is best known as the home of [[The Dominion]], one of the most powerful governments in known space.
+
+---
+
+## Basic Information
+
+Quadrant Designation: Gamma Quadrant
+Galaxy: Milky Way
+Adjacent Quadrants:
+- Alpha Quadrant
+- Delta Quadrant
+Primary Known Power:
+- [[The Dominion]]
+Major Access Point:
+- [[Bajoran Wormhole]]
+Strategic Importance:
+- Exploration
+- Trade
+- Scientific Research
+- Dominion Territory
+
+---
+
+## Quadrant Geography
+
+The Gamma Quadrant contains thousands of star systems, civilizations, and unexplored regions.
+Much of the quadrant remains poorly charted by Alpha Quadrant powers.
+
+### Major Regions
+
+- Dominion Space
+- Neutral Territories
+- Trade Corridors
+- Exploration Zones
+- Frontier Regions
+
+---
+
+## Major Powers
+
+### The Dominion
+
+The dominant political and military power of the Gamma Quadrant.
+Leadership:
+- [[Founders]]
+Servitor Species:
+- [[Vorta]]
+- [[Jem'Hadar]]
+Capital World:
+- [[Founder Homeworld]]
+
+### Independent Civilizations
+
+Numerous non-aligned civilizations exist throughout the quadrant, many of which maintain varying relationships with the Dominion.
+
+---
+
+## Significant Locations
+
+### Bajoran Wormhole
+
+Stable wormhole connecting the Alpha and Gamma Quadrants.
+The single most important route linking the two quadrants.
+
+### Founder Homeworld
+
+Home of the [[Founders]] and center of Dominion authority.
+
+### Idran System
+
+Location of the Gamma Quadrant entrance to the Bajoran Wormhole.
+
+### Dominion Space
+
+The heart of Dominion-controlled territory.
+
+---
+
+## Exploration
+
+The Gamma Quadrant remains one of the least explored regions accessible to Starfleet.
+
+### Common Mission Types
+
+- First Contact
+- Scientific Research
+- Archaeological Surveys
+- Trade Negotiations
+- Deep Space Exploration
+
+### Challenges
+
+- Vast distances
+- Limited infrastructure
+- Political uncertainty
+- Dominion influence
+
+---
+
+## Strategic Importance
+
+The opening of the Bajoran Wormhole transformed the Gamma Quadrant into a vital region for:
+- Exploration
+- Commerce
+- Diplomacy
+- Intelligence gathering
+- Military operations
+Control of access routes remains an important strategic concern.
+
+---
+
+## Major Historical Events
+
+### Discovery of the Bajoran Wormhole
+
+Allowed direct travel between the Alpha and Gamma Quadrants.
+
+### First Dominion Contacts
+
+Initial encounters revealed the existence of a powerful interstellar state.
+
+### Dominion Infiltration Campaigns
+
+The Dominion conducted extensive intelligence operations within the Alpha Quadrant.
+
+### Dominion War
+
+A major conflict involving:
+- [[The Dominion]]
+- [[Cardassian Union]]
+- [[United Federation of Planets]]
+- [[Klingon Empire]]
+- [[Romulan Star Empire]]
+The war became one of the largest conflicts in galactic history.
+
+### Treaty of Bajor
+
+Officially brought an end to the Dominion War.
+
+---
+
+## Trade and Commerce
+
+### Wormhole Trade Routes
+
+Commerce expanded significantly following the discovery of the Bajoran Wormhole.
+
+### Dominion-Controlled Trade
+
+Large sections of Gamma Quadrant commerce operate under Dominion oversight.
+
+---
+
+## Security Concerns
+
+### Dominion Influence
+
+Many worlds are directly or indirectly affected by Dominion authority.
+
+### Uncharted Systems
+
+Numerous sectors remain unexplored and potentially hazardous.
+
+### Pirate Activity
+
+Smuggling and criminal activity can occur in remote regions.
+
+---
+
+## Scientific Interest
+
+The Gamma Quadrant contains:
+- Unique ecosystems
+- Previously unknown civilizations
+- Rare astronomical phenomena
+- Unexplored archaeological sites
+Starfleet continues to regard the region as a major scientific frontier.
+
+---
+
+## RP Hooks
+
+- First Contact missions
+- Dominion diplomacy
+- Deep-space exploration
+- Scientific expeditions
+- Archaeological discoveries
+- Lost colony investigations
+- Intelligence operations
+- Trade negotiations
+- Post-war reconstruction efforts
+- Unexplored sector surveys
+
+---
+
+## Related Notes
+
+### Quadrants
+
+- [[01 Alpha Quadrant]]
+- [[Beta Quadrant]]
+- [[Delta Quadrant]]
+
+### Major Powers
+
+- [[The Dominion]]
+
+### Important Locations
+
+- [[Bajoran Wormhole]]
+- [[Founder Homeworld]]
+- [[Idran System]]
+
+### Major Species
+
+- [[Founders]]
+- [[Vorta]]
+- [[Jem'Hadar]]
+
+### Major Conflicts
+
+- [[Dominion War]]
+- [[Treaty of Bajor]]
+#gammaquadrant #dominion #founders #vorta #jemhadar #bajoranwormhole #exploration

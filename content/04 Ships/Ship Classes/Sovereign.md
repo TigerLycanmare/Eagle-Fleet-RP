@@ -1,0 +1,104 @@
+---
+aliases:
+  - Sovereign Class
+  - Sovereign-class Starship
+  - Sovereign
+type: Starship Class
+operator: Starfleet
+affiliation: United Federation of Planets
+era: Late 24th Century
+status: Active
+
+---
+# Sovereign-class
+
+## Overview
+
+The **Sovereign-class** was introduced during the early 2370s as one of Starfleet's most advanced starship designs. Incorporating many of Starfleet's latest technological developments, the class was designed to perform exploration, diplomatic, scientific, and defensive missions throughout Federation space. 【1-58d388】
+At the time of its introduction, the Sovereign-class represented Starfleet's most advanced and longest starship design, although it was not as large as the Galaxy-class. 【1-58d388】
+The class became famous through the service of the **[[USS Enterprise (NCC-1701-E)]]**, the flagship commanded by Captain Jean-Luc Picard. 【2-a40ab4】【1-58d388】
+
+## Classification
+
+- **Type:** Explorer
+- **Operator:** Starfleet
+- **Affiliation:** United Federation of Planets
+- **Primary Roles:**
+- Exploration
+- Diplomacy
+- Scientific research
+- Strategic response
+- Fleet support
+- Defensive operations
+【1-58d388】
+
+## General Characteristics
+
+- **Length:** Less than 700 metres
+- **Decks:** 24+
+- **Cruising Speed:** Warp 8
+- **Defensive Systems:** Deflector shields
+- **Service Era:** 2370s–2400s
+【1-58d388】
+
+## Tactical Systems
+
+### Pre-Refit Configuration
+
+- 12 phaser arrays
+- 1 forward quantum torpedo launcher
+- 2 forward photon torpedo launchers
+- 3 aft photon torpedo launchers
+
+### Post-Refit Configuration
+
+- 16 phaser arrays
+- 1 forward quantum torpedo launcher
+- 3 forward photon torpedo launchers
+- 6 aft photon torpedo launchers
+【1-58d388】
+
+## History
+
+The Sovereign-class entered service during the early 2370s. The first major combat deployment of the class occurred during the **Borg incursion into Sector 001**, where the USS Enterprise-E played a key role in the destruction of the Borg cube. 【1-58d388】
+During the Dominion War era, Sovereign-class vessels were often employed in diplomatic and strategic assignments across Federation space. 【1-58d388】
+Prior to 2379, the USS Enterprise-E underwent a notable refit that increased both its phaser and torpedo capabilities and introduced modifications to the warp nacelle pylons. 【1-58d388】
+
+## Interior Facilities
+
+Notable facilities commonly found aboard Sovereign-class vessels include:
+- Main Bridge
+- Captain's Ready Room
+- Observation Lounge
+- Main Engineering
+- Astrometrics Laboratory
+- Stellar Cartography
+- Medical Facilities
+- Shuttle Bays
+- Auxiliary Craft Facilities
+- Escape Pod Network
+【1-58d388】【3-325592】
+
+## Notable Vessels
+
+- [[USS Enterprise (NCC-1701-E)]]
+- [[USS Sovereign]]
+- [[USS Queen Elizabeth II]]
+【2-a40ab4】【1-58d388】
+
+## Eagle Fleet Service
+
+### Active Vessels
+
+- [[USS Queen Elizabeth II]]
+
+## Related Documents
+
+- [[USS Queen Elizabeth II]]
+- [[Active Roleplay Ships]]
+- [[Starfleet]]
+- [[Eagle Fleet]]
+
+## Notes
+
+The Sovereign-class is regarded as one of the most capable starship classes produced by Starfleet during the late 24th century, balancing exploration and scientific capability with considerable defensive and tactical strength. 【1-58d388】

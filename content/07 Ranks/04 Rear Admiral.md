@@ -1,0 +1,71 @@
+---
+rank: Rear Admiral
+abbreviation: RADM
+category: Flag Officer
+superior: [[03 Vice Admiral]]
+junior: [[05 Commodore]]
+
+---
+# Rear Admiral
+
+## Overview
+
+Rear Admiral is a flag officer rank within Eagle Fleet. Officers holding this rank occupy senior leadership positions and are responsible for commanding significant formations, overseeing major programmes, and supporting fleet-wide operations.
+Rear Admirals bridge the gap between senior operational commanders and the higher levels of the Admiralty, ensuring that strategic objectives are effectively executed throughout the fleet.
+
+## Rank Information
+
+| Category | Value |
+|----------|--------|
+| Rank | Rear Admiral |
+| Abbreviation | RADM |
+| Grade | Flag Officer |
+| Superior Rank | [[03 Vice Admiral]] |
+| Junior Rank | [[05 Commodore]] |
+| Typical Posting | Task Group Command, Department Director, Fleet Staff |
+
+## Responsibilities
+
+- Commanding task groups and operational formations
+- Oversight of fleet readiness and training
+- Managing key departments and directorates
+- Supporting major fleet operations and exercises
+- Advising senior flag officers on operational matters
+- Implementing Admiralty policy within assigned commands
+
+## Authority
+
+A Rear Admiral has authority over all personnel and assets assigned to their command and is responsible for ensuring fleet regulations, standards, and directives are upheld.
+
+## Typical Assignments
+
+- Task Group Commander
+- Director of Operations
+- Director of Personnel
+- Director of Communications
+- Senior Staff Officer
+- Deputy Task Force Commander
+
+## Insignia
+
+*Add image or description of Rear Admiral rank insignia here.*
+
+## Current Holders
+
+- [[Name]]
+
+## Related Ranks
+
+- [[03 Vice Admiral]]
+- [[05 Commodore]]
+- [[02 Admiral]]
+
+## Related Documents
+
+- [[Fleet Command Structure]]
+- [[Starfleet Chain of Command]]
+- [[Admiralty Charter]]
+
+## Notes
+
+Rear Admirals form the core of Eagle Fleet's senior command structure and are entrusted with translating strategic direction into effective operational leadership.

@@ -1,0 +1,323 @@
+# Captain David Micheals
+
+## Basic Information
+
+Full Name: David Micheals
+Rank: Captain
+Serial Number: 8473-DRM-2414
+Species: Human
+Age: 45
+Date of Birth: Stardate 37578.1
+Place of Birth: [[New Berlin]], [[Luna]], [[Earth]]
+Current Assignment: [[USS Queen Elizabeth II]]
+Position: Commanding Officer
+Affiliation: [[Starfleet]]
+Citizenship: [[United Federation of Planets]]
+Security Clearance: Level 10 – Command Access
+
+---
+
+## Physical Description
+
+Height: 6'0" (1.83m)
+Weight: 82 kg
+Hair: Black with Silver Streaks
+Eyes: Hazel
+Skin Tone: Pale with Olive Undertones
+Blood Type: O+
+Vision: Enhanced Low-Light Acuity
+Languages:
+- Federation Standard
+- Vulcan (Basic)
+- Romulan Dialects
+
+---
+
+## Education
+
+### Academic Institutions
+
+- Starfleet Academy – Tactical Division
+- Vulcan Science Directorate (Remote Mentorship)
+
+### Mentors
+
+- Admiral [[T'Varis]]
+
+### Service Schools
+
+- Starfleet Advanced Tactical School
+- Subspace Field Theory Institute
+
+### Qualifications
+
+- Quantum Combat Theory
+- Phase-Shifted Threat Response
+- Temporal Displacement Survival Protocols
+- Graviton Shear Pulse Deployment
+- Multi-Vector Shielding Strategy
+
+---
+
+## Academy Record
+
+Honors:
+- Graduated in the Top 3% of his Class
+Academic Major:
+- Tactical Operations
+Professional Major:
+- Subspace Field Theory
+Commendations:
+- Rigel Cup Tactical Simulation Champion
+- Live-Fire Malfunction Resolution (Zero Casualties)
+- Classified Thesis on Cloak Disruption
+Activities:
+- Tactical Simulation Team (Red Division Squad Leader)
+- Zero-G Combat
+- Relay Strategy
+Reprimands:
+- None
+
+---
+
+## Career Timeline
+
+### USS Ticonderoga
+
+Position: Junior Tactical Officer
+Responsibilities:
+- Romulan Neutral Zone Patrol Operations
+- Tactical Analysis
+- Border Security
+Achievements:
+- Developed a predictive targeting algorithm later adopted by multiple task groups.
+
+---
+
+### USS Resolute
+
+Position: Chief Tactical Officer
+Responsibilities:
+- Tactical Department Leadership
+- Strategic Threat Assessment
+- Crisis Response Coordination
+Achievements:
+- Orion Interceptor Incident
+- Quantum Combat Innovation Citation
+- Crew Commendations for Operational Excellence
+
+---
+
+### USS Queen Elizabeth II
+
+Position: Executive Officer
+Responsibilities:
+- Command Coordination
+- Strategic Planning
+- Crew Readiness
+- Department Oversight
+Achievements:
+- Maintained shipwide operational readiness during multiple major incidents.
+- Demonstrated exceptional command aptitude and leadership under crisis conditions.
+
+---
+
+### Field Promotion to Captain
+
+During a major operational crisis aboard the [[USS Queen Elizabeth II]], the vessel's commanding officer became medically incapacitated and was no longer capable of exercising command authority.
+As Executive Officer, Commander Micheals assumed command under emergency protocols to ensure the survival of the ship and crew.
+Throughout the incident, Micheals demonstrated:
+- Exceptional composure under pressure
+- Strong strategic judgement
+- Effective coordination across all departments
+- Unwavering commitment to crew safety
+- Ethical command decision-making during rapidly evolving circumstances
+Following the successful resolution of the crisis, Starfleet formally reviewed his actions and determined that his performance had exceeded the expectations of his billet.
+The field promotion was subsequently confirmed by Starfleet Command, and David Micheals was permanently elevated to the rank of Captain and retained command of the [[USS Queen Elizabeth II]].
+
+---
+
+## Awards and Commendations
+
+- Starfleet Tactical Excellence Citation
+- Commendation for Non-Lethal Resolution
+- Rigel Cup Tactical Simulation Champion
+- Quantum Combat Innovation Citation
+- Crew Leadership Commendation
+- Starfleet Intelligence Recognition (Classified)
+
+---
+
+## Skills Profile
+
+### Tactical Operations
+
+- Elite threat analysis
+- Predictive tactical modelling
+- Multi-vector combat planning
+- Strategic contingency development
+
+### Scientific Knowledge
+
+- Quantum Mechanics
+- Subspace Theory
+- Shield Harmonics
+- Temporal Anomaly Analysis
+
+### Combat Training
+
+- Starfleet Hand-to-Hand Combat
+- Mok'bara
+- Anbo-jyutsu
+- Advanced Phaser Combat
+
+### Command Leadership
+
+- Crisis Management
+- Crew Coordination
+- Ethical Decision Making
+- Mission Planning
+- Department Oversight
+
+### Diplomacy
+
+- First Contact Procedures
+- Intercultural Negotiation
+- Federation Diplomatic Protocols
+
+---
+
+## Personality Profile
+
+### Strengths
+
+- Calm under pressure
+- Highly analytical
+- Ethical and principled
+- Strategic thinker
+- Inspires confidence in others
+- Exceptional pattern recognition
+
+### Weaknesses
+
+- Internalises stress
+- Slow to delegate
+- Overextends himself
+- Reluctant to seek help
+- Accepts personal responsibility for failures
+
+### Personality Traits
+
+- Thoughtful
+- Disciplined
+- Loyal
+- Professional
+- Compassionate
+- Duty-Oriented
+
+---
+
+## Command Philosophy
+
+> "Leadership isn't certainty. Leadership is responsibility."
+Captain Micheals believes a commanding officer's duty is not simply to lead a crew but to safeguard them. Mission success is important, but never at the expense of the people entrusted to his command.
+He values preparation, discipline, and ethical decision-making, believing that trust is the foundation of effective leadership.
+
+---
+
+## Medical Status
+
+Current Status: Active Duty
+Medical Clearance: Full Active Duty
+Physical Condition: Excellent
+Psychological Evaluation:
+- Stable
+- Resilient
+- Fully fit for command
+No restrictions on active service.
+
+---
+
+## Recreational Interests
+
+- Three-Dimensional Chess
+- Mok'bara
+- Anbo-jyutsu
+- Astronomy
+- Piano
+- Vulcan Lute
+- Holographic Painting
+- Holodeck Tactical Simulations
+- Philosophy and Ethics Debates
+- Stratagemma
+- Cultural Studies
+
+---
+
+## Current Assignment
+
+### USS Queen Elizabeth II
+
+Class: Sovereign-class
+Role: Commanding Officer
+Responsibilities:
+- Mission Command
+- Crew Welfare
+- Strategic Leadership
+- Diplomatic Oversight
+- Fleet Operations Coordination
+
+---
+
+## Records
+
+### Personnel
+
+- [[Eagle Fleet RPG/11 Records/Personnel Records/Micheals, David]]
+
+### Medical
+
+- [[Medical Record - David Micheals]]
+
+### Intelligence
+
+- [[Starfleet Intelligence Dossier - David Micheals]]
+
+### Classified
+
+- [[Project Echoseed]]
+- [[Section 31 Black File]]
+- [[Annotated Dream Logs]]
+- [[Archive Node QE2-AUX-7X]]
+
+---
+
+## Related Notes
+
+### Organisations
+
+- [[Starfleet]]
+- [[Starfleet Intelligence]]
+- [[United Federation of Planets]]
+
+### Assignments
+
+- [[USS Ticonderoga]]
+- [[USS Resolute]]
+- [[USS Queen Elizabeth II]]
+
+### Locations
+
+- [[New Berlin]]
+- [[Luna]]
+- [[Earth]]
+
+### Individuals
+
+- [[Admiral T'Varis]]
+#captain
+#commandingofficer
+#starfleet
+#ussqueenelizabethii
+#human
+#personnel

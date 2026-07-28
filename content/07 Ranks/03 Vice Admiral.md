@@ -1,0 +1,70 @@
+---
+rank: Vice Admiral
+abbreviation: VADM
+category: Flag Officer
+superior: [[02 Admiral]]
+junior: [[04 Rear Admiral]]
+
+---
+# Vice Admiral
+
+## Overview
+
+Vice Admiral is a senior flag officer rank within Eagle Fleet. Officers holding this rank are responsible for the leadership of major commands, task forces, and strategic initiatives in support of Admiralty objectives.
+Vice Admirals serve as key advisors to senior fleet leadership and oversee the execution of operational, administrative, and diplomatic responsibilities across the fleet.
+
+## Rank Information
+
+| Category | Value |
+|----------|--------|
+| Rank | Vice Admiral |
+| Abbreviation | VADM |
+| Grade | Flag Officer |
+| Superior Rank | [[02 Admiral]] |
+| Junior Rank | [[04 Rear Admiral]] |
+| Typical Posting | Task Force Command, Fleet Staff, Admiralty Departments |
+
+## Responsibilities
+
+- Commanding task forces and major formations
+- Supervising fleet operations and readiness
+- Leading Admiralty departments and directorates
+- Coordinating large-scale exercises and missions
+- Advising senior fleet leadership
+- Implementing strategic directives
+
+## Authority
+
+A Vice Admiral exercises authority over subordinate commands and personnel assigned to their area of responsibility and acts under the direction of the Admiralty and senior flag officers.
+
+## Typical Assignments
+
+- Task Force Commander
+- Deputy Fleet Commander
+- Department Director
+- Strategic Operations Officer
+- Senior Admiralty Staff Officer
+
+## Insignia
+
+*Add image or description of Vice Admiral rank insignia here.*
+
+## Current Holders
+
+- [[Name]]
+
+## Related Ranks
+
+- [[02 Admiral]]
+- [[04 Rear Admiral]]
+- [[05 Commodore]]
+
+## Related Documents
+
+- [[Fleet Command Structure]]
+- [[Starfleet Chain of Command]]
+- [[Admiralty Charter]]
+
+## Notes
+
+Vice Admirals form the upper tier of Eagle Fleet's flag officer corps and are responsible for translating strategic goals into effective operational action throughout the fleet.
